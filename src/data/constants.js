@@ -188,6 +188,32 @@ export const Bio = {
   export const projects = [
     {
       id: 0,
+      title: "Meme Generator",
+      date: "July 2023",
+      description:
+        "The Meme Generator App is a fun and creative application built with React.js. It allows users to create hilarious memes by fetching images from an API and adding custom text captions.",
+      image:
+        "https://github.com/ketansahugit/meme-generator/blob/master/src/images/Screenshot.png?raw=true",
+      tags: ["ReactJS", "JavaScript"],
+      category: "web app",
+      github: "https://github.com/ketansahugit/meme-generator",
+      webapp: "https://ketansahugit.github.io/meme-generator/",
+    },
+    {
+      id: 1,
+      title: "Tenzies",
+      date: "Aug 2023",
+      description:
+        "Tenzies is a React project that brings you a dice game where the objective is to match all the dice numbers to win, accompanied by a confetti celebration.",
+      image:
+        "https://github.com/ketansahugit/tenzies/blob/master/src/Screenshot%202.png?raw=true",
+      tags: ["ReactJS", "JavaScript", "CSS"],
+      category: "web app",
+      github: "https://github.com/ketansahugit/tenzies",
+      webapp: "https://ketansahugit.github.io/tenzies/",
+    },
+    /* {
+      id: 1,
       title: "Trackify",
       date: "Jun 2023 - Jul 2023",
       description:
@@ -212,7 +238,7 @@ export const Bio = {
       webapp: "https://trackify.duckdns.org",
     },
     {
-      id: 1,
+      id: 2,
       title: "Podstream",
       date: "Apr 2023 - May 2023",
       description:
@@ -239,7 +265,7 @@ export const Bio = {
       ],
     },
     {
-      id: 2,
+      id: 3,
       title: "Vexa",
       date: "Oct 2022 - Present",
       description:
@@ -259,7 +285,7 @@ export const Bio = {
       webapp: "https://vexa-app.netlify.app/",
     },
     {
-      id: 3,
+      id: 4,
       title: "Brain Tumor Detection",
       date: "Jan 2023 - Mar 2023",
       description:
@@ -286,7 +312,7 @@ export const Bio = {
       ],
     },
     {
-      id: 4,
+      id: 5,
       title: "Buckoid",
       date: "Dec 2021 - Apr 2022",
       description:
@@ -299,7 +325,7 @@ export const Bio = {
       webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
     },
     {
-      id: 5,
+      id: 6,
       title: "Job Finding App",
       date: "Jun 2023 - Jul 2023",
       description:
@@ -312,7 +338,7 @@ export const Bio = {
       webapp: "https://github.com/rishavchanda/Job-finder-App",
     },
     {
-      id: 6,
+      id: 7,
       title: "Whatsapp Clone",
       date: "Jul 2021",
       description:
@@ -325,7 +351,7 @@ export const Bio = {
       webapp: "https://whatsapp-clone-rishav.web.app",
     },
     {
-      id: 7,
+      id: 8,
       title: "Todo Web App",
       date: "Jun 2021",
       description:
@@ -338,7 +364,7 @@ export const Bio = {
       webapp: "https://rishav-react-todo.netlify.app/",
     },
     {
-      id: 8,
+      id: 9,
       title: "Breaking Bad",
       date: "Jun 2021",
       description:
@@ -351,7 +377,7 @@ export const Bio = {
       webapp: "https://breaking-bad-webapp.netlify.app",
     },
     {
-      id: 9,
+      id: 10,
       title: "Quiz App",
       date: "Dec 2020 - Jan 2021",
       description:
@@ -364,7 +390,7 @@ export const Bio = {
       webapp: "https://github.com/rishavchanda/Quiz-Earn",
     },
     {
-      id: 10,
+      id: 11,
       title: "Face Recognition",
       date: "Jan 2021",
       description:
@@ -375,20 +401,7 @@ export const Bio = {
       category: "machine learning",
       github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
       webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
-    },
-    {
-      id: 11,
-      title: "Meme Generator",
-      date: "July 2023",
-      description:
-        "The Meme Generator App is a fun and creative application built with React.js. It allows users to create hilarious memes by fetching images from an API and adding custom text captions.",
-      image:
-        "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
-      tags: ["ReactJS", "JavaScript"],
-      category: "web app",
-      github: "https://github.com/ketansahugit/meme-generator",
-      webapp: "https://ketansahugit.github.io/meme-generator/",
-    },
+    }, */
   ];
   
   export const TimeLineData = [
