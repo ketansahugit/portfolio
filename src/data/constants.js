@@ -130,7 +130,7 @@ export const Bio = {
   export const experiences = [
     {
       id: 0,
-      img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
+      img: "https://ngs-space1.sgp1.digitaloceanspaces.com/am/uploads/mediaGallery/image/1672821522788.jpg-org",
       role: "Web Developer Intern",
       company: "Physics Wallah Pvt Ltd",
       date: "Oct 2023 - Present",
@@ -149,16 +149,16 @@ export const Bio = {
   export const education = [
     {
       id: 0,
-      img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
+      img: "https://ngs-space1.sgp1.digitaloceanspaces.com/am/uploads/mediaGallery/image/1672821522788.jpg-org",
       school: "PW Skills",
       date: "March 2023 - Present",
       grade: "",
       desc: "Enrolled in Full Stack Web Development course covering HTML, CSS, JavaScript, NodeJs, React, MongoDB, SQL and more. Designed responsive websites, wrote efficient code, and worked with databases.  Gained valuable skills in computer science concepts and best practices, preparing for a career in web development.",
-      degree: "Bachelor of Commerce",
+      degree: "Full Stack Web Development",
     },
     {
       id: 1,
-      img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
+      img: "https://images.shiksha.com/mediadata/images/1598967644phpbGWTrb.jpg",
       school: "Brijlal Biyani Science College, Amravati",
       date: "Oct 2018 - Sep 2021",
       grade: "8.48 CGPA",
@@ -167,7 +167,7 @@ export const Bio = {
     },
     {
       id: 2,
-      img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
+      img: "https://images.shiksha.com/mediadata/images/1598967644phpbGWTrb.jpg",
       school: "Brijlal Biyani Science College, Amravati",
       date: "April 2017 - March 2018",
       grade: "68.3%",
